@@ -1,3 +1,7 @@
+
+<p align="center">  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </p>
+
+<h1 align="center">I'm Judeson Leo </h1>
 # 💫 About Me:
 🔭 I’m currently student , studying MCA at RVCE <br>
 
